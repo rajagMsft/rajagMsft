@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajagMsft
 - 👀 I’m interested in learning and improving customer experiences at scale
 - 🌱 I’m currently learning Azure VM Extensions
-- 💞️ I’m looking to collaborate on React
+- 💞️ I’m looking to collaborate on React, Typescript, Azure projects
 - 📫 How to reach me : https://www.linkedin.com/in/raja-ganjikunta-b4150658/
 
 <!---
